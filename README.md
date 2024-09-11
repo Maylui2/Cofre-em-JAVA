@@ -26,5 +26,5 @@
 
 1. **Clone the Repository:**
 
-   ```bash
-   
+      ```bash
+   git clone https://github.com/Maylui2/Cofre-em-JAVA.git

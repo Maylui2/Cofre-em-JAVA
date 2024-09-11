@@ -3,6 +3,7 @@
 ## 📚 Description
 
 **Cofrinho** is a Java project developed for educational purposes. This project simulates a piggy bank where you can:
+![Captura de tela 2024-09-03 171430](https://github.com/user-attachments/assets/02840645-2976-4717-bbb2-d53986cd049b)
 
 - Add and remove coins in different currencies (Real, Euro, and Dollar)
 - Calculate the total amount in Brazilian real
